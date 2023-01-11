@@ -37,7 +37,7 @@ The following screen shot demonstrates the application functionality:
 
 ## Deployed Link
 
-[Click here for deployed Daily Reminder Calendar](https://devbrent3274.github.io/quiz/)
+[Click here for deployed Daily Reminder Calendar](https://devbrent3274.github.io/daycalendar/)
 
 ## Sources
 
